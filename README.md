@@ -20,11 +20,7 @@ The following list shows the initial feature list for first cut version 0.0.1
 
 ## Tasks List
 
-Update: 31/10/2016  
-Some initial task to complete as checklist:  
-1. Create a git repo and update readme.md  
-2. Setup the Angular app skeleton  
-3. Work on Table view   
+See TODO.md
 
 ## Development Prerequisites
 
