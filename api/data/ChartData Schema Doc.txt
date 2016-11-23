@@ -1,0 +1,127 @@
+##Lane Codes
+Ten Lanes
+11 types of notes
+"LC","HH","LP","LB","SD","HT","BD","LT","FT","RC","RD"
+barLength should be converted to line count for that bar, 1.0 => 192 
+
+"1A":"LC",
+"11":"HH",
+"18":"HH",
+"1C":"LP",//Should be LB
+"1B":"LP",
+"12":"SD",
+"14":"HT",
+"13":"BD",
+"15":"LT",
+"17":"FT",
+"16":"RC",
+"19":"RD",
+
+##dtxList - Array of charts
+
+Sample data per dtx file, some data are not inside dtx file but filled in by user externally
+[
+{
+	"mode": "Drum",
+	"chartType": 4,//Runs from 1 to 15: 5 diffculty per type of chart Drum, Guitar, Bass
+	"diffculty": "Master",	
+	"_id": ObjectId("4cdfb11e1f3c000000007822"),//mongodb auto-generate _id by default
+	"dtxdata": {//Internal dtx data which can be found or derived from inside dtx file
+		"chartInfo": {
+			"title": "\u7d05\u304d\u7687\u5e1d\u3001\u767d\u304d\u4e16\u754c",
+			"artist": "\u5996\u7cbe\u5e1d\u56fd",
+			"bpm": 235,
+			"level": "7.60"			
+		},
+		"metadata": {//metadata are data derived from existing data
+			"totalNoteCount": 847,
+			"LC_Count": 22,
+			"HH_Count": 400,
+			"LP_Count": 5,
+			"LB_Count": 8,
+			"SD_Count": 200,
+			"HT_Count": 8,
+			"BD_Count": 67,
+			"LT_Count": 12,
+			"FT_Count": 10,
+			"RC_Count": 50,
+			"RD_Count": 40
+		},
+		"barGroups": [
+			{
+				"lines": 192,//bar length 1.0 = 192 lines
+				"bpmMarkerArray": [
+					{
+						"pos": 0,
+						"bpm": 235
+					}
+				],
+				"showHideLineMarkerArray": [
+					{
+						"pos": 0,
+						"show": false
+					},
+					{
+						"pos": 96,
+						"show": true
+					}
+				],
+				"notes": {}//If no notes, then empty
+			},
+			{
+				"lines": 192,//bpmMarkerArray and showHideLineMarkerArray property will be omitted if they have no values
+				"notes": {//Lanes without notes will not appear as property
+					"SD": "0A0A000000000000000000000A000000",//Same encoding as dtx internal, to save space
+					"BD": "0001000001010001",
+				    "RD": "000000000M0M0M0M0000000000000000",
+					"LB": "00000001000000000001000100000000",
+					"LC": "000000000000000D"
+				}
+			}
+		]
+	}
+},//... next dtxID
+]
+
+##userdtxcollection
+
+[
+{
+	"username": "KSMING",//This has to be unique!
+	"user_Id": "",//Actual unique id of user to reference against users collection
+	"_id": ObjectId("849179480581"),//Internal _id for this userdtxcollection document
+	"songs":[//songs array
+		{
+			"title": "ABCD",
+			"bpmInfo": "230 - 235"
+			"_id": ObjectId("849179480581"),//Internal _id for songs document,
+			"dtxList": [//This array embeds a list of dtxdata associated with this song
+				{
+					"_id": ObjectId("4cdfb11e1f3c000000007822"),
+					//...
+				},
+				{
+					"_id": ObjectId("4cdfb12e1f3c000000007822"),
+					//...
+				},
+				{
+					"_id": ObjectId("4cdfb13e1f3c000000007822"),
+					//...
+				},
+				{
+					"_id": ObjectId("4cdfb14e1f3c000000007822"),
+					//...
+				}
+			]
+		}
+	]
+
+},
+{//next username}
+]
+
+##Users Collection
+A separate collection for users with user_id and other profile related data
+
+
+
