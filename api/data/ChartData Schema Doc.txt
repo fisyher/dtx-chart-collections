@@ -88,13 +88,16 @@ Sample data per dtx file, some data are not inside dtx file but filled in by use
 [
 {
 	"username": "KSMING",//This has to be unique!
-	"user_Id": "",//Actual unique id of user to reference against users collection
+	"user_id": "",//Actual unique id of user to reference against users collection
 	"_id": ObjectId("849179480581"),//Internal _id for this userdtxcollection document
 	"songs":[//songs array
 		{
+            "_id": ObjectId("849179480581"),//Internal _id for songs document,
 			"title": "ABCD",
-			"bpmInfo": "230 - 235"
-			"_id": ObjectId("849179480581"),//Internal _id for songs document,
+            "artist" "EFGHI",
+            "length": 210,//Number in seconds
+			"bpmInfo": "230 - 235",
+			"description": "This song is created by EFGHI in the year XXXX"
 			"dtxList": [//This array embeds a list of dtxdata associated with this song
 				{
 					"_id": ObjectId("4cdfb11e1f3c000000007822"),
