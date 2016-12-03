@@ -72,7 +72,7 @@ function songsGetByID(req, res, next){
     //Find song with given id from DB
     SongDtxCollection
         .findOne({owner_id: userID, _id: songID})
-        .select("-dtxList.dtxdata")
+        .select("-dtxList.dtxdata.barGroups")
         .exec(function(err, song){
         if(err){
             res.status(500);
@@ -115,13 +115,37 @@ function songDtxListGetByChartType(req, res, next){
         userID = guestuserid;
     }
     
-    //var testtitle = "Astral Dogma";
-    
-    //Get the id and charttype from param
     var songID = req.params.songID;
     var chartType = parseInt(req.params.chartType);
     
+    //var testtitle = "Astral Dogma";
+    
+    //Get the id and charttype from param
+    /*var songID = req.params.songID;
+    var chartType = parseInt(req.params.chartType);
+    console.log("charType is ", chartType);
+    
     //Find song with given id from DB
+    SongDtxCollection.find({owner_id: userID,
+                           _id: songID,
+                           'dtxList.$.chartType': chartType}
+    
+    ).exec(function(err, song){
+        if(err){
+            console.log(err);
+            res.status(500);
+            res.json({
+                "message": "Server error " + err
+            });
+            return;
+        }
+        
+        console.log(song);
+        res.status(200);
+        res.json(song);
+    });*/
+    
+    
     SongDtxCollection
         .findOne({owner_id: userID,
                   _id: songID})
@@ -143,15 +167,23 @@ function songDtxListGetByChartType(req, res, next){
             return;
         }
         
-        //Filter by chartType
+        //Filter by chartType, can't find a way to use mongoose model to do this filtering...
         var chartDtx = song.dtxList.filter(function(el){
-           console.log(el.chartType, ' vs ', chartType);
            return el.chartType === chartType; 
         }).pop();
+        
+        if(!chartDtx){
+            res.status(404);
+            res.json({
+                "message": "DTX not found"
+            });
+            return;
+        }
         
         res.status(200);
         res.json(chartDtx);
     });
+    
 }
 
 function songDtxListUpdateByChartType(req, res, next){

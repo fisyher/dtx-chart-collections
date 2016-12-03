@@ -66,13 +66,13 @@ var dtxDataSchema = new mongoose.Schema({
     barGroups: [barGroupSchema]
 }, {_id: false});
 
-var dtxSchema = new mongoose.Schema({
+/*var dtxSchema = new mongoose.Schema({
     mode: String,
     chartType: Number,
     difficulty: String,
     dtxdata: dtxDataSchema
     //dtxdata
-});
+});*/
 
 var SongDtxCollectionSchema = new mongoose.Schema({
     owner_id:{type: String, required: true},
@@ -83,7 +83,13 @@ var SongDtxCollectionSchema = new mongoose.Schema({
     length: Number,
     bpmInfo: String,
     description: String,
-    dtxList: [dtxSchema]
+    dtxList: [{
+        mode: String,
+        chartType: Number,
+        difficulty: String,
+        dtxdata: dtxDataSchema
+        //dtxdata
+    }]
 });
 
 //Register the schema into mongoose
