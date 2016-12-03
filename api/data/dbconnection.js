@@ -1,25 +1,20 @@
-//NOTE: Placeholder scripts
-var MongoClient = require('mongodb').MongoClient;
-var dburl = 'mongodb://localhost:27017/dtxcollections';
-
-var _connection = null;
-
-var open = function() {
-  MongoClient.connect(dburl, function(err, db) {
-    if (err) {
-      console.log("DB connection failed");
-      return;
-    }
-    _connection = db;
-    console.log("DB connection open");
-  });
-};
-
-var get = function() {
-  return _connection;
-};
-
-module.exports = {
-  open : open,
-  get : get
-};
+var mongoose = require('mongoose'); 
+var dburl = 'mongodb://localhost:27017/dtxdb'; 
+ 
+mongoose.connect(dburl); 
+ 
+mongoose.connection.on('connected', function(){ 
+    console.log('Mongoose connected to ' + dburl); 
+}); 
+ 
+mongoose.connection.on('disconnected', function(){ 
+    console.log('Mongoose disconnected'); 
+}); 
+ 
+mongoose.connection.on('error', function(err){ 
+    console.log('Mongoose connection error: ' + err); 
+}); 
+ 
+//Import schema an models 
+require('./songDtxCollection.model.js');
+require('./users.model.js');

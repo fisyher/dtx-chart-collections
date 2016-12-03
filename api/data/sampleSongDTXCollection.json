@@ -1,0 +1,6044 @@
+[{
+	"owner_id": "4b45e49a-42dd-453d-9279-04fe7c0f1825",
+	"created_date":"2016-11-29T18:25:43.511Z",
+	"modified_date":"2016-11-29T18:25:43.511Z",
+	"title": "Astral Dogma",
+	"artist": "妖精帝國",
+	"length": 204,
+	"bpmInfo": "180",
+	"description": "This song is created by 妖精帝國 in the year XXXX",
+	"dtxList": [{
+		"mode": "Drum",
+		"chartType": 1,
+		"difficulty": "Basic",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Astral Dogma",
+				"artist": "妖精帝國",
+				"bpm": 180,
+				"level": "1.95"
+			},
+			"metadata": {
+				"totalNoteCount": 230,
+				"LC_Count": 36,
+				"HH_Count": 43,
+				"LP_Count": 0,
+				"LB_Count": 0,
+				"SD_Count": 59,
+				"HT_Count": 1,
+				"BD_Count": 43,
+				"LT_Count": 0,
+				"FT_Count": 2,
+				"RC_Count": 31,
+				"RD_Count": 15
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0F0000000F00000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "000D0000000D0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000040000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "04",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RD": "000H",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "04",
+					"FT": "000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"RC": "0D",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"RC": "00000000000D0000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"LC": "00000000000F0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000",
+					"BD": "01",
+					"RC": "00000000000D0000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000400000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "000E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"RC": "000I000000000000",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "000A",
+					"RC": "000I000000000000",
+					"FT": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0D00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"RC": "000I000000000000",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"RC": "000I000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"LC": "0G00000000000G000000000G00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"SD": "00000004",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006",
+					"BD": "0101",
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006",
+					"BD": "0101",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "0000000000000404",
+					"BD": "01010100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 180
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 2,
+		"difficulty": "Advanced",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Astral Dogma",
+				"artist": "妖精帝國",
+				"bpm": 180,
+				"level": "5.45"
+			},
+			"metadata": {
+				"totalNoteCount": 568,
+				"LC_Count": 42,
+				"HH_Count": 87,
+				"LP_Count": 0,
+				"LB_Count": 6,
+				"SD_Count": 201,
+				"HT_Count": 5,
+				"BD_Count": 147,
+				"LT_Count": 7,
+				"FT_Count": 9,
+				"RC_Count": 40,
+				"RD_Count": 24
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000000000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000000000",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000000000",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000000000000",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000000000",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000000000",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "0004000400040404",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000040004000404",
+					"BD": "01",
+					"RC": "0F000F000F000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000040004",
+					"BD": "01",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D000D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "0101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000040000",
+					"BD": "01",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0404",
+					"BD": "00010001",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RD": "000H",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "00010001",
+					"RC": "0D",
+					"RD": "000H",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"HT": "0000000A",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000000000000",
+					"RD": "000H0H0H",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000000000004",
+					"HT": "000A000000000000",
+					"LT": "00000B0B00000000",
+					"RC": "0000000H",
+					"FT": "000000000C0C0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040404",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"RC": "0D",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400000000",
+					"BD": "01",
+					"LC": "0F000000000000000F00000F00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"RC": "00000000000D0000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400000000",
+					"BD": "01",
+					"LT": "0000000B",
+					"FT": "000000000000000C",
+					"LC": "00000000000F0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01",
+					"RC": "00000000000D0000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400040004",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000400000000",
+					"BD": "01000101",
+					"RC": "00000E0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0100000100000100",
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "0001000001000100",
+					"RC": "000I000000000000",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0100000100000100",
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000000000",
+					"BD": "0001000000000000",
+					"HT": "000A",
+					"LT": "00000000000B0000",
+					"RC": "000I000000000000",
+					"FT": "0000000000000C0C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0100000100000100",
+					"RC": "0D00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "0001000001000100",
+					"RC": "000I000000000000",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0100000100000100",
+					"RC": "0I00000I00000I00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000004",
+					"BD": "0001000000000000",
+					"LT": "00000000000B0000",
+					"RC": "000I000000000000",
+					"FT": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"LC": "0G00000G00000G000G00000G00000G00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000000040000",
+					"BD": "0101",
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000040000",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000040000",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000000040000",
+					"BD": "0101",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000040000",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000000040000",
+					"BD": "0101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "0004000400040404",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "0004000400040404",
+					"BD": "0101010101010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0D",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 180
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 3,
+		"difficulty": "Extreme",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Astral Dogma",
+				"artist": "妖精帝國",
+				"bpm": 180,
+				"level": "7.25"
+			},
+			"metadata": {
+				"totalNoteCount": 1005,
+				"LC_Count": 43,
+				"HH_Count": 190,
+				"LP_Count": 0,
+				"LB_Count": 122,
+				"SD_Count": 250,
+				"HT_Count": 6,
+				"BD_Count": 295,
+				"LT_Count": 13,
+				"FT_Count": 14,
+				"RC_Count": 41,
+				"RD_Count": 31
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000040004000404",
+					"BD": "0101000100010000",
+					"RC": "0F000F000F000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000040004",
+					"BD": "010000000000010100010100",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D000D"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000040000",
+					"BD": "010000000000000000000000010001000000000000010001",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000004000004",
+					"BD": "00010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "000H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"HT": "0000000A",
+					"FT": "000000000000000A",
+					"RD": "000H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"RD": "000H0H0H",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "04000000000000000000000000000404",
+					"HT": "000A000000000000",
+					"LT": "000000000B0B0B0B0000000000000000",
+					"RC": "0000000H",
+					"FT": "00000000000000000C0C0C0C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600060000",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F0000000000000F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600060006",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600060006",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600000000",
+					"SD": "0004000400040404",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600070000",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600070000",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600060006",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006000600000000",
+					"SD": "0004000400000000",
+					"BD": "01010000",
+					"LC": "0F000000000000000F00000F00000F00",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500000000",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "00000000000D0000",
+					"LB": "00000000000100000006000000000000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500000000",
+					"SD": "0004000400040000",
+					"BD": "01010100",
+					"LT": "0000000B",
+					"FT": "000000000000000C",
+					"LB": "00000000000100000000000000000000",
+					"LC": "00000000000F0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500000000",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "00000000000D0000",
+					"LB": "00000000000100000001000000000000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005000500050005",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0007000000000000",
+					"SD": "0004000400000000",
+					"BD": "01010101",
+					"RC": "00000E0E",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0I00000I00000I00",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "01010101",
+					"RC": "000I000000000000",
+					"LB": "0001000100010001",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0I00000I00000I00",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000000000",
+					"BD": "01010000",
+					"HT": "00000000000000000A0A000000000000",
+					"LT": "000000000000000000000B0B00000000",
+					"RC": "000I000000000000",
+					"FT": "0000000000000000000000000C0C0C00",
+					"LB": "0001000100000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0D00000I00000I00",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "01010101",
+					"RC": "000I000000000000",
+					"LB": "0001000100010001",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0I00000I00000I00",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000400000000000404000000000400",
+					"BD": "01010000",
+					"LT": "00000000000B0000",
+					"RC": "000I000000000000",
+					"FT": "0000000000000000000000000C0C0000",
+					"LB": "0001000100000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"LC": "0G00000G00000G000G00000G00000G00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "06060600",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00010000000100000001000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060000",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0D",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 180
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 4,
+		"difficulty": "Master",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Astral Dogma",
+				"artist": "妖精帝國",
+				"bpm": 180,
+				"level": "8.20"
+			},
+			"metadata": {
+				"totalNoteCount": 1338,
+				"LC_Count": 45,
+				"HH_Count": 327,
+				"LP_Count": 0,
+				"LB_Count": 220,
+				"SD_Count": 253,
+				"HT_Count": 7,
+				"BD_Count": 345,
+				"LT_Count": 14,
+				"FT_Count": 15,
+				"RC_Count": 73,
+				"RD_Count": 39
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060000",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010100",
+					"LB": "00010001000100010001000100000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000040004000404",
+					"BD": "0101000100010000",
+					"RC": "0F000F000F000F0F",
+					"LB": "00010001000000000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05",
+					"SD": "0004000000040004",
+					"BD": "010000000000010100010100",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D000D",
+					"LB": "000000000000000000000000000100000000000100000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000000000001000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05",
+					"SD": "0004000000040000",
+					"BD": "010000000000000000000000010001000000000000010001",
+					"HT": "000A0000",
+					"LT": "0000000B00000000",
+					"RC": "000D0000000D0000",
+					"LB": "000000000000000000000000000100000000000000000100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000004000004",
+					"BD": "00010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LB": "0000000100010001",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "0H0H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F",
+					"LB": "0000000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "0H0H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LB": "0000000100010001",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "0H0H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F",
+					"LB": "0000000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "0H0H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LB": "0000000100010001",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"LT": "000000000000000B",
+					"FT": "0000000C",
+					"RD": "0H0H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RD": "000H0H00",
+					"LC": "0F0000000000000F",
+					"LB": "0000000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000404",
+					"BD": "0001000100010000",
+					"RD": "0H0H0H00",
+					"LC": "0000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000004000004",
+					"BD": "01010101",
+					"RC": "0D",
+					"RD": "000H0H00",
+					"LB": "0000000100010001",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"HT": "0000000A",
+					"FT": "000000000000000A",
+					"RD": "0H0H0H00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004",
+					"BD": "0001000100010000",
+					"RD": "0H0H0H0H",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "04040000000000000000000000040404",
+					"HT": "00000A0A000000000000000000000000",
+					"LT": "000000000B0B0B0B0000000000000000",
+					"RC": "0000000H",
+					"FT": "00000000000000000C0C0C0C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060600",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F0000000000000F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606000000",
+					"SD": "0004000400040404",
+					"BD": "01010101",
+					"RC": "00000000000D0000",
+					"LC": "0F00000000000F0F",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606070700",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606070700",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060600000000",
+					"SD": "0004000400000000",
+					"BD": "01000000010000000100000100000100",
+					"LC": "0F000000000000000F00000F00000F00",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505000500",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "00000000000D0000",
+					"LB": "00000000000100000006000000000000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505000000",
+					"SD": "0004000400040000",
+					"BD": "01010100",
+					"LT": "0000000B",
+					"FT": "000000000000000C",
+					"LC": "00000000000F0000",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505000500",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "00000000000D0000",
+					"LB": "00000000000100000001000000000000",
+					"LC": "000000000000000F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0507070000000000",
+					"SD": "0004000400000000",
+					"BD": "01010101",
+					"RC": "00000E0E",
+					"LB": "00000000000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0I0I0I0I0I0I0I0I",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "01010101",
+					"RC": "0I0I0I0I00000000",
+					"LB": "0001000100010001",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "01010101",
+					"RC": "0I0I0I0I0I0I0I0I",
+					"LB": "0001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000000000000",
+					"BD": "01010000",
+					"HT": "00000000000000000A0A000000000000",
+					"LT": "000000000000000000000B0B00000000",
+					"RC": "0I0I0I0000000000",
+					"FT": "0000000000000000000000000C0C0C0C",
+					"LB": "0001000100000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0101010101010101",
+					"RC": "0D0I0I0I0I0I0I0I",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0004000004000400",
+					"BD": "0101010101010101",
+					"RC": "0I0I0I0I00000000",
+					"LB": "00010001000100010001000100010001",
+					"LC": "00000F0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0400000400000400",
+					"BD": "0101010101010101",
+					"RC": "0I0I0I0I0I0I0I0I",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000400000000000404000000000404",
+					"BD": "0101010100000000",
+					"LT": "000000000000000000000B0B00000000",
+					"RC": "0I0I0I0I00000000",
+					"FT": "0000000000000000000000000C0C0000",
+					"LB": "00010001000100000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01000001000001000100000100000100",
+					"LC": "0G00000G00000G000G00000G00000G00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"RC": "0D",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LC": "0F",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505050505050505",
+					"SD": "0004000400040004",
+					"BD": "01010101",
+					"LB": "00000000000100000000000000010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060000",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"RC": "0D",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0006060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LC": "0F",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060606",
+					"SD": "0004000400040004",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0606060606060000",
+					"SD": "00000400000004000000040004040404",
+					"BD": "0101010101010101",
+					"LB": "00010001000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0D",
+					"LC": "0F"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 180
+				}]
+			}]
+		}
+	}]
+}, {
+	"owner_id": "67a994d0-76a5-4f07-885f-90ed697c46d5",
+	"created_date":"2016-11-28T18:25:43.511Z",
+	"modified_date":"2016-11-29T18:25:43.511Z",
+	"title": "Burning Heat! (Full Option Mix)",
+	"artist": "Mr T. with Motoaki.F",
+	"length": 204,
+	"bpmInfo": "166",
+	"description": "This song is created by Mr T. with Motoaki.F in the year XXXX",
+	"dtxList": [{
+		"mode": "Drum",
+		"chartType": 1,
+		"difficulty": "Basic",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Burning Heat! (Full Option Mix)",
+				"artist": "Mr T. with Motoaki.F",
+				"bpm": 166,
+				"level": "2.80"
+			},
+			"metadata": {
+				"totalNoteCount": 280,
+				"LC_Count": 5,
+				"HH_Count": 108,
+				"LP_Count": 0,
+				"LB_Count": 0,
+				"SD_Count": 78,
+				"HT_Count": 11,
+				"BD_Count": 37,
+				"LT_Count": 11,
+				"FT_Count": 8,
+				"RC_Count": 22,
+				"RD_Count": 0
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "000U",
+					"RC": "0E",
+					"FT": "0000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U00",
+					"LT": "0000000V",
+					"RC": "0E",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05",
+					"SD": "0000000A000000000A000A00",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A",
+					"LT": "000V",
+					"FT": "0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A0000",
+					"LT": "0V0V",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"LT": "0V0V",
+					"RC": "000E0000",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0A000A",
+					"HT": "000U00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500",
+					"SD": "000000000A0A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000A000000000A000000",
+					"BD": "01",
+					"LT": "00000000000V",
+					"RC": "000E0000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N0000000N000N",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00000000",
+					"SD": "000A",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"FT": "0000000000000000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"HT": "00000U"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N0000000N000N",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000000000N000N00000000",
+					"RC": "0000000E",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"LT": "0000000V"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00",
+					"HT": "000U000000000U000U000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"FT": "0000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000000007000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00070007"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00070007"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "000U00000000",
+					"LT": "000V"
+				},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500",
+					"SD": "0A000A000A0A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A000000000A000000",
+					"LT": "00000000000V",
+					"RC": "000E000E0000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U00",
+					"LT": "0000000V",
+					"RC": "0E",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"LC": "000C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 166
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 2,
+		"difficulty": "Advanced",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Burning Heat! (Full Option Mix)",
+				"artist": "Mr T. with Motoaki.F",
+				"bpm": 166,
+				"level": "5.40"
+			},
+			"metadata": {
+				"totalNoteCount": 499,
+				"LC_Count": 5,
+				"HH_Count": 176,
+				"LP_Count": 0,
+				"LB_Count": 0,
+				"SD_Count": 114,
+				"HT_Count": 14,
+				"BD_Count": 128,
+				"LT_Count": 17,
+				"FT_Count": 20,
+				"RC_Count": 25,
+				"RD_Count": 0
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005050505",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U000000",
+					"LT": "00000000000V000V00000000",
+					"RC": "0E",
+					"FT": "000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000050500",
+					"SD": "000A000A",
+					"BD": "00010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U000U0000",
+					"LT": "000V0V",
+					"RC": "0E",
+					"FT": "00000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "0000000A000000000A0A0A0A",
+					"BD": "01010100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A",
+					"LT": "000V",
+					"FT": "0W0W00000W00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A0000",
+					"BD": "00000001",
+					"LT": "0V0V",
+					"FT": "000W00000W00",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "00010001",
+					"LT": "0V0V",
+					"RC": "000E0000",
+					"FT": "000W00000W00",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0A0A00000A00",
+					"HT": "000U00",
+					"LT": "00000000000V",
+					"FT": "000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500",
+					"SD": "0A0000000A0000000A0A0A0A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A00000A000A000000",
+					"BD": "000100010000000000000000",
+					"LT": "00000000000V",
+					"RC": "000E000E0000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N0000000N000N",
+					"SD": "000A",
+					"BD": "010000000001000000010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N00000N000N00000000",
+					"SD": "000A",
+					"BD": "000001000000000000010001",
+					"RC": "0000000E",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000000000",
+					"FT": "0000000000000000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"SD": "000A",
+					"HT": "00000U",
+					"FT": "00000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N0000000N000N",
+					"SD": "000A",
+					"BD": "010000000001000000010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N00000N000N00000000",
+					"SD": "000A",
+					"BD": "000001000001000000010001",
+					"RC": "0000000E",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N000N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000000000",
+					"LT": "0000000V",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00",
+					"HT": "000U000000000U000U000000",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0005",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0505",
+					"SD": "0000000A00000000000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A0000000000000000",
+					"BD": "00010000",
+					"HT": "00000U",
+					"FT": "0000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N000N00070000000N000N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00070000000N00070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N000700000000000N000N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00070000000N00070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "000U0U000000",
+					"LT": "0000000V0V00",
+					"FT": "00000000000W"
+				},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0000000N0500",
+					"SD": "000A000A",
+					"BD": "00010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "0A000A000A0000000A0A0A0A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000050500",
+					"SD": "000A000A",
+					"BD": "01010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050500050500",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A00000A000A000000",
+					"BD": "000100010000000000000000",
+					"LT": "00000000000V",
+					"RC": "000E000E0000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "05050505050N",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U000U0000",
+					"LT": "000V0V",
+					"RC": "0E",
+					"FT": "00000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "000100000000",
+					"RC": "0E",
+					"LC": "000C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 166
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 3,
+		"difficulty": "Extreme",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Burning Heat! (Full Option Mix)",
+				"artist": "Mr T. with Motoaki.F",
+				"bpm": 166,
+				"level": "7.00"
+			},
+			"metadata": {
+				"totalNoteCount": 761,
+				"LC_Count": 5,
+				"HH_Count": 355,
+				"LP_Count": 6,
+				"LB_Count": 0,
+				"SD_Count": 124,
+				"HT_Count": 34,
+				"BD_Count": 161,
+				"LT_Count": 24,
+				"FT_Count": 26,
+				"RC_Count": 26,
+				"RD_Count": 0
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505050505050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U0U0U000U0000000000",
+					"LT": "00000000000V000V00000000",
+					"RC": "0E",
+					"FT": "00000000000000000W0W0W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005000005050505000005",
+					"SD": "000A000A",
+					"BD": "01010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U0U00000U0U00000000",
+					"LT": "000000000V0V00000V0V0000",
+					"RC": "0E",
+					"FT": "000000000000000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050005000500050005000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050000000000",
+					"SD": "0000000A000000000A0A0A0A",
+					"BD": "01010100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A",
+					"BD": "01010101",
+					"HT": "00000000000U00000000000U",
+					"LT": "000V",
+					"FT": "0W0W00000W00"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A0000",
+					"BD": "01010101",
+					"HT": "00000000000U00000000000U",
+					"LT": "0V0V",
+					"FT": "000W00000W00",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01010101",
+					"HT": "00000000000U000000000000",
+					"LT": "0V0V",
+					"RC": "000E0000",
+					"FT": "000W00000W00",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0A0A0A0A000000000A0A0000",
+					"BD": "01010101",
+					"HT": "000U00",
+					"LT": "00000000000V",
+					"FT": "0000000000000W000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"LP": "06"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "0A000A000A00000A0A0A0A0A",
+					"BD": "000000000000000100010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"LP": "06"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A00000A0A0A000000",
+					"BD": "000100010000000000000000",
+					"HT": "0000000U",
+					"LT": "00000000000V",
+					"RC": "000E000E0000000000000000",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N0000000N000N",
+					"SD": "000A",
+					"BD": "010000000001000000010001",
+					"RC": "0E",
+					"LP": "000000000006"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N000N0N000N0N000000",
+					"SD": "000A",
+					"BD": "000001000101000000010001",
+					"RC": "0000000E",
+					"LP": "06",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000000001",
+					"HT": "000000000000000U00000000",
+					"FT": "0000000000000000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000100",
+					"HT": "00000U",
+					"LT": "0000000V",
+					"FT": "00000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N0000000N000N",
+					"SD": "000A",
+					"BD": "010001000001000000010001",
+					"RC": "0E",
+					"LP": "000000000006"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N000N0N000N0N000000",
+					"SD": "000A",
+					"BD": "000001000101000000010001",
+					"RC": "0000000E",
+					"LP": "06",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000000000",
+					"HT": "000000000000000U00000000",
+					"LT": "0000000V",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N00",
+					"HT": "000U000000000U0U0U000000",
+					"LT": "00000000000V",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000005050505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505",
+					"SD": "0000000A00000000000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "000A000A0000000A00000000",
+					"BD": "01010100",
+					"HT": "00000U",
+					"LT": "0000000V",
+					"FT": "00000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0N0N070000000N0N0N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000N0N0N070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000000000N0N0N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000N0N0N070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "0U0U0U000000",
+					"LT": "0000000V0V00",
+					"FT": "00000000000W"
+				},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000000",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "0A000A000A00000A0A0A0A0A",
+					"BD": "000000000000000100010000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000000005050505000005",
+					"SD": "000A000A",
+					"BD": "01010001",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000005",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000005050505000000",
+					"SD": "000A000A",
+					"BD": "00010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A0A0A00000A0A0A000000",
+					"BD": "000100010000000000000000",
+					"HT": "0000000U",
+					"LT": "00000000000V",
+					"RC": "000E0E0E0000000000000000",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U0U00000U0U00000000",
+					"LT": "000000000V0V00000V0V0000",
+					"RC": "0E",
+					"FT": "000000000000000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "010100000000",
+					"RC": "0E",
+					"LC": "000C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 166
+				}]
+			}]
+		}
+	}, {
+		"mode": "Drum",
+		"chartType": 4,
+		"difficulty": "Master",
+		"dtxdata": {
+			"chartInfo": {
+				"title": "Burning Heat! (Full Option Mix)",
+				"artist": "Mr T. with Motoaki.F",
+				"bpm": 166,
+				"level": "7.90"
+			},
+			"metadata": {
+				"totalNoteCount": 1012,
+				"LC_Count": 5,
+				"HH_Count": 477,
+				"LP_Count": 19,
+				"LB_Count": 4,
+				"SD_Count": 140,
+				"HT_Count": 45,
+				"BD_Count": 234,
+				"LT_Count": 26,
+				"FT_Count": 35,
+				"RC_Count": 27,
+				"RD_Count": 0
+			},
+			"barGroups": [{
+				"notes": {},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505050505050505",
+					"BD": "01",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505050505050505050505"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505050505050505050505",
+					"LP": "06"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01",
+					"HT": "000U0U0U0U0U0U000U0000000U0000000000000000000000",
+					"LT": "00000000000V000V00000000",
+					"RC": "0E",
+					"FT": "00000000000000000W0W0W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01010101",
+					"HT": "00000U0U0U000U00000000000U0U0U000000000000000000",
+					"LT": "000000000V0V00000V0V0000",
+					"RC": "0E",
+					"FT": "000000000000000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050000000000",
+					"SD": "0000000000000A000000000000000A0A0A000A000A000A00",
+					"BD": "01010100"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A",
+					"BD": "01010101",
+					"HT": "00000000000U00000000000U",
+					"LT": "000V",
+					"FT": "0W000W000000000W0W000000",
+					"LP": "06060606"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "000A000A",
+					"BD": "01010101",
+					"HT": "00000000000U00000000000U",
+					"LT": "0V0V",
+					"FT": "000W0W000000000W0W000000",
+					"LP": "06060606",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0000000A00000000000A000A",
+					"BD": "01010101",
+					"HT": "00000000000U000000000000",
+					"LT": "0V0V",
+					"RC": "000E0000",
+					"FT": "000W0W000000000W0W000000",
+					"LP": "06060606",
+					"LC": "0000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "0A000A0A0A000A000000000000000A0A0A000A0000000000",
+					"BD": "01010101",
+					"HT": "000U00",
+					"LT": "00000000000V000000000V00",
+					"FT": "0000000000000W000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"LP": "06"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "0A0000000A0000000A0000000A0A0A000A000A000A000A00",
+					"BD": "000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"LP": "06"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000A000A000A00000000000A0A0A000A00000000000000",
+					"BD": "000100010001000100010001",
+					"HT": "0000000U",
+					"LT": "00000000000V",
+					"RC": "000E0E0E0000000000000000",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N0N0N0N0N000N0N0N000N",
+					"SD": "000A",
+					"BD": "010001000001000000010001",
+					"RC": "0E",
+					"LB": "000000000000000000000001000000000000000000000000",
+					"LP": "000000000006"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000N0N000000",
+					"SD": "000A",
+					"BD": "000001000101000000010001",
+					"RC": "0000000E",
+					"LP": "06",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000000001",
+					"HT": "000000000000000U00000000",
+					"FT": "0000000000000000000W000W",
+					"LB": "000000000000000000000001000000000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000000000101000000000000",
+					"HT": "00000U",
+					"LT": "0000000V",
+					"FT": "000000000000000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000N0N0N0N0N000N0N0N000N",
+					"SD": "000A",
+					"BD": "010001000001000000010001",
+					"RC": "0E",
+					"LB": "000000000000000000000001000000000000000000000000",
+					"LP": "000000000006"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000N0N000000",
+					"SD": "000A",
+					"BD": "000001000101000000010001",
+					"RC": "0000000E",
+					"LP": "06",
+					"LC": "00000000000000000000000C"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "00000N0N0N0N000000000000",
+					"SD": "000A",
+					"BD": "000000000001000000010001",
+					"HT": "000000000000000U00000000",
+					"LT": "0000000V",
+					"FT": "00000000000000000000000W",
+					"LB": "000000000000000000000001000000000000000000000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000000000N0N000000000000",
+					"BD": "000000000101000000000000",
+					"HT": "00000U0U00000000000000000U0U0U000U00000000000000",
+					"LT": "00000000000V",
+					"FT": "0000000000000000000W000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000500",
+					"SD": "0000000A00000000000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050005000505000000000000",
+					"SD": "000A000A0000000A00000000",
+					"BD": "01010100",
+					"HT": "00000U",
+					"LT": "0000000V",
+					"FT": "0000000000000W0000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0N0N070000000N0N0N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000N0N0N070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000000000N0N0N"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "0N0N0N0700000N0N0N070000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HT": "0U0U0U0U0U00000000000000",
+					"LT": "00000000000V0V000V000000",
+					"FT": "00000000000W"
+				},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000000",
+					"SD": "0A0000000A0000000A0000000A0A0A000A000A000A000A00",
+					"BD": "000100010001000100010001"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"SD": "00000A000A000A00000000000A0A0A000A00000000000000",
+					"BD": "000100010001000100010001",
+					"HT": "0000000U",
+					"LT": "00000000000V",
+					"RC": "000E0E0E0000000000000000",
+					"FT": "00000000000000000000000W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "000505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101",
+					"RC": "0E"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"HH": "050505000505050505000505",
+					"SD": "000A000A",
+					"BD": "01010101"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "01010101",
+					"HT": "00000U0U0U000U00000000000U0U0U000000000000000000",
+					"LT": "000000000V0V00000V0V0000",
+					"RC": "0E",
+					"FT": "000000000000000000000W0W"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {
+					"BD": "010100000000",
+					"RC": "0E",
+					"LC": "000C00000000"
+				},
+				"lines": 192,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"lines": 192,
+				"notes": {},
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": []
+			}, {
+				"notes": {},
+				"lines": 96,
+				"showHideLineMarkerArray": [],
+				"bpmMarkerArray": [{
+					"pos": 0,
+					"bpm": 166
+				}]
+			}]
+		}
+	}]
+}]

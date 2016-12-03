@@ -11,19 +11,28 @@ router
   .post(dtxController.songsAdd);
 
 router
-  .route('/songs/:songTitle')
-  .get(dtxController.songsGetByTitle)
-  .put(dtxController.songsUpdateByTitle)
-  .delete(dtxController.songsDeleteByTitle);
+  .route('/songs/:songID')
+  .get(dtxController.songsGetByID)
+  .put(dtxController.songsUpdateByID)
+  .delete(dtxController.songsDeleteByID);
 
 router
-  .route('/songs/:songTitle/dtxList')
+  .route('/songs/:songID/dtxList')
   .get(dtxController.songDtxListGet);
 
 router
-  .route('/songs/:songTitle/dtxList/:chartType')
+  .route('/songs/:songID/dtxList/:chartType')
   .get(dtxController.songDtxListGetByChartType)
   .put(dtxController.songDtxListUpdateByChartType)
   .delete(dtxController.songDtxListDeleteByChartType);
+
+//Load test data route TODO: REMOVE After test
+router
+  .route('/addtestdata/songs')
+  .post(dtxController.loadTestSongsData);
+
+router
+  .route('/addtestdata/users')
+  .post(dtxController.loadTestUsersData);
 
 module.exports = router;

@@ -1,4 +1,5 @@
 //Starting point for node server
+require('./api/data/dbconnection.js');
 var express = require('express');
 var app = express();
 var path = require('path');
@@ -17,6 +18,8 @@ app.use(function(req, res, next) {
 // Set static directory before defining routes
 app.use(express.static(path.join(__dirname, 'public')));
 
+//Create application/json parser
+app.use(bodyParser.json({limit: '1000kb'}));
 //Parse body of posted forms
 app.use(bodyParser.urlencoded({extended: false}));
 

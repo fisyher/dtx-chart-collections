@@ -74,14 +74,10 @@ var dtxSchema = new mongoose.Schema({
     //dtxdata
 });
 
-/*
-"mode": "Drum",
-	"chartType": 4,//Runs from 1 to 15: 5 diffculty per type of chart Drum, Guitar, Bass
-	"diffculty": "Master",	
-*/
-
-
-var songSchema = new mongoose.Schema({
+var SongDtxCollectionSchema = new mongoose.Schema({
+    owner_id:{type: String, required: true},
+    created_date: Date,
+    modified_date: Date,
     title: {type: String, required: true},
     artist: {type: String, required: true},
     length: Number,
@@ -90,23 +86,5 @@ var songSchema = new mongoose.Schema({
     dtxList: [dtxSchema]
 });
 
-/*
-"title": "ABCD",
-            "artist" "EFGHI",
-            "length": 210,//Number in seconds
-			"bpmInfo": "230 - 235",
-			"description": "This song is created by EFGHI in the year XXXX"
-*/
-
-
-var userdtxcollectionSchema = new mongoose.Schema({
-    username: {
-        type: String,
-        required: true
-    },
-    user_id: String,
-    songs: [songSchema]
-});
-
 //Register the schema into mongoose
-mongoose.model('UserDtxCollection', userdtxcollectionSchema, 'dtxCollection');
+mongoose.model('SongDtxCollection', SongDtxCollectionSchema, 'songDtxCollection');
