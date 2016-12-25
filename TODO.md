@@ -19,9 +19,9 @@ DELETE	| /api/songs/:songID<br/>/dtxList/:chartType	| Delete a specific chart	| 
 
 #Tasklist for 0.0.2
 ---
-TODO: 
-1. Add User Login and Authentication using passport
-2. Create basic 5 views: Song List View, Song Detail View, DTX Info View, Login View, Logout View 
+TODO:  
+1. Add User Login and Authentication using passport  
+2. Create basic 5 views: Song List View, Song Detail View, DTX Info View, Login View, Logout View   
 
 Target: 02/01/2017
 
