@@ -30,13 +30,4 @@ router
   .get(dtxController.songDtxListGetByChartType)
   .delete(dtxController.songDtxListDeleteByChartType);
 
-//Load test data route TODO: REMOVE After test
-router
-  .route('/addtestdata/songs')
-  .post(dtxController.loadTestSongsData);
-
-router
-  .route('/addtestdata/users')
-  .post(dtxController.loadTestUsersData);
-
 module.exports = router;

@@ -443,6 +443,15 @@ function songDtxListUpdateByChartType(req, res, next){
            return el.chartType !== chartType; 
         });
         
+        var message = "Song Dtx updated";
+        var status = 200;
+        
+        //If same length after filter, means this dtx did not exist before
+        if(updatedDtxList.length === song.dtxList.length){
+            message = "Song Dtx created";
+            status = 201;
+        }
+        
         //Add in the new dtx item
         updatedDtxList.push(dtx);
         
@@ -457,9 +466,9 @@ function songDtxListUpdateByChartType(req, res, next){
                     "message": "Server error " + err + ". Data not saved"
                 });            
             } else{
-                res.status(200);
+                res.status(status);
                 res.json({
-                    "message": "Song Dtx updated"
+                    "message": message
                 });
             }
         });
