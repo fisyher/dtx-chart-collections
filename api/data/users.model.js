@@ -1,20 +1,29 @@
 //Mongoose Model definition for users
 var mongoose = require('mongoose');
 
-var users = new mongoose.Schema({
+var User = new mongoose.Schema({
     username: {
         type: String,
         required: true,
+        unique: true,
     },
-    user_id: {
-        type: String, //of UUID format
-        required: true,
-        unique: true
+    name:{
+        type: String,
+        required: true
     },
-    join_date: Date,
-    songs_count: Number
+    password: {//hash, not the actual password
+        type: String,
+        required: true
+    },
+    _id: {
+        type: String,
+        required: true
+    },
+    join_date: {
+        type: Date
+    }
 });
 
 
 //Register the schema into mongoose
-mongoose.model('UsersCollection', users, 'usersCollection');
+mongoose.model('UsersCollection', User, 'usersCollection');

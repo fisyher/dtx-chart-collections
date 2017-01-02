@@ -1,6 +1,9 @@
 var mongoose = require('mongoose'); 
 var dburl = 'mongodb://localhost:27017/dtxdb'; 
- 
+
+//Set the node built-in Promise API as the main promise api for mongoose
+mongoose.Promise = global.Promise;
+
 mongoose.connect(dburl); 
  
 mongoose.connection.on('connected', function(){ 
@@ -15,6 +18,6 @@ mongoose.connection.on('error', function(err){
     console.log('Mongoose connection error: ' + err); 
 }); 
  
-//Import schema an models 
+//Import schema and models 
 require('./songDtxCollection.model.js');
 require('./users.model.js');

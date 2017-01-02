@@ -4,9 +4,6 @@
 var mongoDB = require('mongodb');
 var mongoose = require('mongoose');
 
-//Set the node built-in Promise API as the main promise api for mongoose
-mongoose.Promise = global.Promise;
-
 //Import uuid generator from uuid module
 //We need to generate uuid for songs
 var uuidgen = require('node-uuid');
@@ -24,11 +21,11 @@ var MAXRESULTSPERPAGE = 1000;
 var MINRESULTSPERPAGE = 1;
 
 //Define a fixed guest user id for testing purpose
-var guestuserid = "67a994d0-76a5-4f07-885f-90ed697c46d5";
+var guestuserid = "nonuser";
 
 function songsGetMultiple(req, res, next){
-    //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    //Get username from property set by middleware
+    var userID = req.username;
     if(!userID){
         userID = guestuserid;
     }
@@ -71,7 +68,7 @@ function songsGetMultiple(req, res, next){
 
 function songsGetCount(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username;
     if(!userID){
         userID = guestuserid;
     }
@@ -97,7 +94,7 @@ function songsGetCount(req, res, next){
 
 function songsAdd(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -153,7 +150,7 @@ function songsAdd(req, res, next){
 
 function songsGetByID(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -190,7 +187,7 @@ function songsGetByID(req, res, next){
 
 function songsUpdateByID(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -261,7 +258,7 @@ function songsUpdateByID(req, res, next){
 
 function songsDeleteByID(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -302,7 +299,7 @@ function songDtxListGet(req, res, next){
 
 function songDtxListGetByChartType(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -380,7 +377,7 @@ function songDtxListGetByChartType(req, res, next){
 
 function songDtxListUpdateByChartType(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
@@ -479,7 +476,7 @@ function songDtxListUpdateByChartType(req, res, next){
 
 function songDtxListDeleteByChartType(req, res, next){
     //TEMP: Get userID from request query param
-    var userID = req.query.userID;
+    var userID = req.username
     if(!userID){
         userID = guestuserid;
     }
