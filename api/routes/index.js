@@ -53,6 +53,6 @@ router.route('/users/password')
     .put(authenticateUserMiddleware, userController.updateUserPassword);
 
 router.route('/users/requestnewtoken')
-    .get(authenticateUserMiddleware, userController.requestNewToken);
+    .post(userController.requestNewAccessToken);
 
 module.exports = router;

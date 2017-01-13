@@ -38,11 +38,14 @@ function loginUser(req, res, next){
             //Proceed to compare the input password with the hash
             if(comparePassword(password, user.password)){
                 console.log('User is found with correct password');
-                //Create token and send it back to client
-                var token = createAndSignToken(user);
+                //Create access and refresh token and send it back to client
+                var clientID = generateRandomUUID();//This can be used to save into DB for blacklist token
+                var token = createAndSignAccessToken(user);
+                var refreshToken = createAndSignRefreshToken(user, clientID);
                 res.status(200).json({
                     message: 'ok',
-                    token: token
+                    accessToken: token,
+                    refreshToken: refreshToken
                 });
             } else{
                 console.log('Wrong password');
@@ -173,8 +176,10 @@ function updateUserPassword(req, res, next){
                             message: 'Internal Server error. Password not changed'
                         });
                     } else{
+                        
+                        //TODO: Current refresh token should be put in a blacklist                        
                         res.status(200).json({
-                            message: 'ok'//The old token should be invalid?
+                            message: 'ok'
                         });
                     }
                 });               
@@ -188,46 +193,53 @@ function updateUserPassword(req, res, next){
     });
 }
 
-//To be called by front end when near token expiry time
-//VULNERABLE to replay attacks
-function requestNewToken(req, res, next){
-    //
-    var username = req.username;//From authenticate middleware
+//To be called by front-end when Access Token has expired
+function requestNewAccessToken(req, res, next){
+    //Get parameters from body
+    var refreshToken = req.body.refreshToken
     
-    User.findOne({
-        username: username
-    }, function(err, user){
-        if(err){
-            console.log(err);
-            res.status(500).json({
-                message: 'Internal Server error'
-            });
-            return;
-        }
-        //If yes, return an error
-        if(!user){
-            res.status(404).json({
-                message: 'User not found'
-            });
-        } else{
-            var newToken = createAndSignToken(user);
-            res.status(200).json({
-                message: 'ok',
-                token: newToken
-            });
-        }
-    });
-    
-    //Create token and send it back to client
-    var token = createAndSignToken(user);
-    res.status(200).json({
-        message: 'ok',
-        token: token
-    });
-    
+    if(refreshToken){
+        jwt.verify(refreshToken, secret, function(err, decoded){
+            if(err){
+                
+                //Invalid Token (Tokens with invalid signature, malformed...)
+                if(err.name === 'JsonWebTokenError'){
+                    res.status(401).json({
+                       message: 'Unauthorized. Invalid token',
+                       tokenErrorType: err.name
+                    });
+                } else if(err.name === 'TokenExpiredError'){
+                    res.status(401).json({
+                       message: 'Unauthorized. Token has expired',//Note: Client should handle this handle specifically i.e. redirect to login page
+                       tokenErrorType: err.name
+                    });
+                    
+                } else{
+                    res.status(401).json({
+                       message: 'Unauthorized. Unknown token error',
+                       tokenErrorType: err.name
+                    });
+                }                
+            } else{
+                //TODO: Check in database for blacklisted tokens using the decoded.client_id value
+                
+                //Create token and send it back to client
+                var token = createAndSignAccessToken(decoded);//decoded has a username property
+                res.status(200).json({
+                    message: 'ok',
+                    accessToken: token
+                });
+            }
+        });
+        
+    } else{
+        res.status(403).json({
+            message: 'No refresh token provided'
+        })
+    }   
 }
 
-//Middelware to authenticate user
+//Middleware to authenticate user when they access secure APIs
 function authenticateUser(req, res, next){
     //Extract header from the request
     var headerExists = req.headers.authorization;
@@ -236,11 +248,31 @@ function authenticateUser(req, res, next){
         //Verify the token. IMPT!
         jwt.verify(tokenString, secret, function(err, decoded){
             if(err){
+                
+                //Invalid Token (Tokens with invalid signature, malformed...)
+                if(err.name === 'JsonWebTokenError'){
+                    res.status(401).json({
+                       message: 'Unauthorized. Invalid token',
+                       tokenErrorType: err.name
+                    });
+                } else if(err.name === 'TokenExpiredError'){
+                    //Proceed to check refresh token
+                    //checkRefreshToken(req, res, next);
+                    res.status(401).json({
+                       message: 'Unauthorized. Token has expired',//Note: Client should handle this handle specifically i.e. request for new access token
+                       tokenErrorType: err.name
+                    });
+                    
+                } else{
+                    res.status(401).json({
+                       message: 'Unauthorized. Unknown token error',
+                       tokenErrorType: err.name
+                    });
+                }
+                
                 //TODO: Handle Token error in greater details
-                console.log(err);
-                res.status(401).json({
-                   message: 'Unauthorized. ' + err.message 
-                });
+                //console.log(err);
+                
             } else{
                 req.username = decoded.username;
                 next();
@@ -262,7 +294,7 @@ module.exports = {
     updateUserProfile: updateUserProfile,
     updateUserPassword: updateUserPassword,
     authenticateUser: authenticateUser,
-    requestNewToken: requestNewToken
+    requestNewAccessToken: requestNewAccessToken
 };
     
 //Internal functions, change here to update the 
@@ -279,10 +311,20 @@ function generateUUID(){
     return uuid.v1();
 }
 
-function createAndSignToken(user){
-    //TODO Create and sign the token using jwt
+function generateRandomUUID(){
+    return uuid.v4();
+}
+
+function createAndSignAccessToken(user){
     return jwt.sign({ 
         username: user.username,
-        uuid: user._id
-    }, secret, {expiresIn: 60 * 60});//15mins cause Access-token should be short-lived, no refresh tokens to be used for now
+        role: 'GeneralUser'
+    }, secret, {expiresIn: 30 * 60, jwtid: generateUUID()});//0.5 hour access token
+}
+
+function createAndSignRefreshToken(user, clientID){
+    return jwt.sign({ 
+        username: user.username,
+        client_id: clientID
+    }, secret, {expiresIn: 24 * 60 * 60});//1 day refresh token for now
 }
